@@ -8,5 +8,3 @@ f
 ffs
 v
 п
-as
-s
