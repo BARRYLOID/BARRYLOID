@@ -5,7 +5,7 @@ f
 ff
 f
 аf
-ffs
+ffsF
 v
 п
 d
