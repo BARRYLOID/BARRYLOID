@@ -4,5 +4,5 @@
 s
 sfss
 s
-ss
+ssы
 ЫЫ
